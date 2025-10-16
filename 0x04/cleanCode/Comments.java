@@ -12,11 +12,11 @@ public class Comments {
     }
 
     /**
-     * <p>Este método publica resultados com base na data
+     * <p> este método publica resultados com base na data
      * </p>
-     * @param date Data a partir da qual os resultados devem ser publicados
-     * @return Lista de entidades de resultado
-     * @since 16.0
+     * @param data data a partir da qual os resultados devem ser publicados
+     * @retornar Lista de entidades de resultado
+     * @desde 16.0
      */
     public List<Result> publishResults(Date date) {
     }
